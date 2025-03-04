@@ -43,7 +43,6 @@
       <Button layoutX="460.0" layoutY="43.0" minHeight="50.0" mnemonicParsing="false" prefWidth="100.0" text="Maïs" />
       <Button layoutX="600.0" layoutY="43.0" minHeight="50.0" mnemonicParsing="false" prefWidth="100.0" text="Salade" />
       <Button layoutX="740.0" layoutY="43.0" minHeight="50.0" mnemonicParsing="false" prefWidth="100.0" text="Cannes à sucre" />
-      <Button layoutX="880.0" layoutY="43.0" minHeight="50.0" mnemonicParsing="false" prefWidth="100.0" text="Market" />
       <Button layoutX="1088.0" layoutY="43.0" minHeight="50.0" mnemonicParsing="false" prefWidth="100.0" text="Pièces" />
    </children>
 </Pane>
