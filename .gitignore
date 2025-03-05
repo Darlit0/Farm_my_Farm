@@ -1,3 +1,4 @@
 .idea
-out
+out/production/Farm_my_Farm
+src/img
 Farm_my_Farm.iml
